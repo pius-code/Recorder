@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1720141502 source:c:\users\lenovo\documents\codeblocks\audiotest\main.cpp
+	<iostream>
+	<cmath>
+	"portaudio.h"
+
+1617237342 c:\users\lenovo\documents\codeblocks\audiotest\portaudio.h
+
